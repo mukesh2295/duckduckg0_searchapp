@@ -1,0 +1,35 @@
+.Footer{
+	background-color: #353748;
+	color: grey;
+	padding: 20px 20px;
+}
+.Footer ul {
+
+  list-style-type: none;
+  margin-left: 0px;
+  margin-right: 40px;
+  text-align: left;
+
+}
+
+.Footer a {
+	text-decoration:none;
+	color: grey;
+}
+
+.Footer div , h5, ul , p , li{	font-style: inherit;
+    font-variant-ligatures: inherit;
+    font-variant-caps: inherit;
+    font-variant-numeric: inherit;
+    font-variant-east-asian: inherit;
+    font-weight: inherit;
+    font-stretch: inherit;
+    font-size: 100%;
+    line-height: inherit;
+    font-family: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+.Footer h5 {
+	color: #DBDCE1;
+}

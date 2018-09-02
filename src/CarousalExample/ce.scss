@@ -1,0 +1,8 @@
+@import "../node_modules/foundation-apps/scss/foundation.scss";
+$primary-color: #00558B;
+
+$slick-font-path: "/fonts/";
+$slick-arrow-color: $primary-color;
+
+@import "../node_modules/slick-carousel/slick/slick.scss";
+@import "../node_modules/slick-carousel/slick/slick-theme.scss";

@@ -1,0 +1,84 @@
+.TwitterCard {
+    padding: 10px 10px;
+    border: 2px;
+    font: inherit;
+    vertical-align: baseline;
+    display: block;
+    color: #333;
+    
+    display: flex;
+    max-width: 100%;
+    transition: margin-left .4s ease-out;
+    min-height: 250px;
+    flex: 0 0 480px;
+    padding: 0 5px;
+    outline: 0;
+    will-change: transform;
+    margin-top: 40px;
+
+} 
+.DuckDuckgoLogo{
+
+    margin-right: 6px;
+    margin-top: 4px;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+}
+
+.card_left{
+        display: block;
+        text-align: left;
+        vertical-align: baseline;
+}
+.tweeterCardName{
+    color: #333;
+    font-size: 13px;
+    text-decoration: none;
+    line-height: 1;
+    font-weight: bold;
+    vertical-align: text-top;
+}
+
+.tw_card__verified{
+    margin-left: 4.5px;
+    width: 12px;
+    height: 12px;
+}
+.tw_card_username{
+    color: #333;
+    font-size: 13px;
+    text-decoration: none;
+    line-height: 1;
+    display: block;
+    margin-top: -5px;
+}
+.twitter_Logo{
+    margin-left: auto;
+    width: 27px;
+    height: 22px;
+    float: right;
+}
+
+.card1_text{
+    margin: 30.5px 0 43px;
+    font-size: 21px;
+    line-height: 1.37;
+    text-align: left;
+    white-space: pre-wrap;
+}
+
+.card1_text a{
+    font-family: inherit;
+    text-decoration: none;
+    color: #4495d4;
+}
+
+.tw_card_link a{
+    color: #333;
+    font-size: 13px;
+    text-decoration: none;
+    line-height: 1;
+    margin-right: 22px;
+}
+

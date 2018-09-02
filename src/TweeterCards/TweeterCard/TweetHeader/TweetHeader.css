@@ -1,0 +1,45 @@
+.Tweeter_header{
+    align-items: center;
+}
+.DuckDuckgoLogo{
+
+    margin-right: 6px;
+    margin-top: 4px;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+}
+
+.card_left{
+        display: block;
+        text-align: left;
+        vertical-align: baseline;
+}
+.tweeterCardName{
+    color: #333;
+    font-size: 13px;
+    text-decoration: none;
+    line-height: 1;
+    font-weight: bold;
+    vertical-align: text-top;
+}
+
+.tw_card__verified{
+    margin-left: 4.5px;
+    width: 12px;
+    height: 12px;
+}
+.tw_card_username{
+    color: #333;
+    font-size: 13px;
+    text-decoration: none;
+    line-height: 1;
+    display: block;
+    margin-top: -5px;
+}
+.twitter_Logo{
+    margin-left: auto;
+    width: 27px;
+    height: 22px;
+    float: right;
+}

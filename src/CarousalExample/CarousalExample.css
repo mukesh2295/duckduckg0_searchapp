@@ -1,0 +1,54 @@
+
+.carousel .thumb img {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.carousel .slide img {
+    max-height: 400px;  /* change this to whatever you want */
+    width: auto;
+}
+
+
+.cardHeader_logo{
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+}
+
+.logoLink{
+    color: #333;
+    font-size: 13px;
+    text-decoration: none;
+    line-height: 1;
+  }  
+
+  .DuckDuckgoLogo{
+
+    margin-right: 6px;
+    margin-top: 4px;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+}
+.card1_text{
+    margin: 30.5px 0 43px;
+    font-size: 21px;
+    line-height: 1.37;
+    text-align: left;
+    white-space: pre-wrap;
+}
+
+.card1_text a{
+    font-family: inherit;
+    text-decoration: none;
+    color: #4495d4;
+}
+
+.tw_card_link a{
+    color: #333;
+    font-size: 13px;
+    text-decoration: none;
+    line-height: 1;
+    margin-right: 22px;
+}

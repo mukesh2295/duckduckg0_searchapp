@@ -1,0 +1,79 @@
+/*@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css"; */
+
+.TweeterCards {
+    border: 0;
+    display: block;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    width: 100%;
+    margin-top: 45px;
+
+}
+.newHome{
+    background-color: #230545;
+    padding: 80px 0 3em;
+    z-index: 5;
+    text-align: center;
+    position: relative;
+    display: block;
+    clear: both;
+    margin: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+.newHome_topTex{
+    max-width: 1070px;
+    padding: 0 20px;
+    margin-left: auto;
+    position: relative;
+    margin-right: auto;
+}
+.Home_timeline_text{
+    font-size: 21px;
+    width: 750px;
+    max-width: 100%;
+    margin: 0 auto;
+    font-weight: 300;
+    color: #fff;
+    line-height: 1.35;
+    display: block;
+
+}
+.Home_timeline_text b {
+    font-weight: 600;
+}
+
+.abt_hr {
+    width: 50px;
+    margin: 50px auto;
+    border: 0;
+    height: 2px;
+    background-color: #3FA4F2;
+}
+.abt_Fast_facts_text{
+    color: #80748F;
+    padding: 0;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    margin-bottom: .5rem;
+    font-family: inherit;
+    line-height: 1.2;
+
+}
+
+.col_PrevArrow{
+	padding-right: 10px;
+	margin-top: 45px;
+
+}
+.col_NextArrow{
+	padding-left: 10px;
+	margin-top: 45px;
+}

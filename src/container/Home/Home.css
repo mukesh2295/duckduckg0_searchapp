@@ -1,0 +1,142 @@
+.HomeLogo{
+	background-color: #AFD2EC;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 0 !important;
+    line-height: 1;
+    padding: 100px 0;
+}
+.abt_hero__title{
+	color: #230545;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 0;
+    margin: 20px 0;
+    line-height: 1.33;
+}
+.abt_hero__text{
+	color: #230545;
+    font-size: 21px;
+    line-height: 1.5;
+    max-width: 610px;
+    padding: 0 0 100px;
+    margin: 0 auto -2px;
+}
+
+.abt_hero__img{
+	margin-bottom: -2px;
+    margin-top: -2px;
+    z-index: -1;
+    width: 102%;
+    margin-left: -1%;
+    max-width: none;
+    float: left;
+    position: relative;
+}
+.Home_timeline{
+	background-color: #230545;
+    padding: 80px 0 3em;
+    z-index: 5;
+    text-align: center;
+    position: relative;
+    display: block;
+    clear: both;
+}
+.Home_timeline_top{
+	max-width: 1070px;
+    padding: 0 20px;
+    margin-right: auto;
+}
+
+.Home_timeline_text{
+	font-size: 21px;
+    width: 750px;
+    max-width: 100%;
+    margin: 0 auto;
+    font-weight: 300;
+    color: #fff;
+    line-height: 1.35;
+    padding: 0;
+    font-weight: 300;
+}
+.Home_timeline_text b {
+	font-weight: 600;
+}
+
+.abt_hr {
+    width: 50px;
+    margin: 50px auto;
+    border: 0;
+    height: 2px;
+    background-color: #3FA4F2;
+}
+.abt_Fast_facts_text{
+    color: #80748F;
+    padding: 0;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    margin-bottom: .5rem;
+    font-family: inherit;
+    line-height: 1.2;
+}
+
+.card1 {
+    z-index: 25;
+    position: relative;
+    padding-top: 20px;
+    margin-bottom: -240px;
+    margin-left: -30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row !important;
+}
+.fact_card_traffic{
+    flex: 1 1 180px;
+    padding: 16px 0px 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+    color: #333;
+    display: block;
+    border-radius: 5px;
+    box-shadow: 0 22px 48px -12px rgba(0,0,0,0.12);
+    background-color: #fff;
+    font-family: inherit;
+    text-decoration: none; 
+
+}
+.fact_card_icon{
+    width: 108px;
+    border: none;
+    max-width: 100%;
+
+}
+.fact_card_title{
+    padding: 0;
+    margin-bottom: 9px;
+    font-size: 44px;
+    line-height: 1;
+    font-weight: bold;
+    color: #111;
+    display: block;
+}
+.fact_card_subtitle{
+    padding: 0;
+    margin-bottom: 15px;
+    font-size: 22px;
+    line-height: 1;
+    font-weight: bold;
+    color: #111;
+
+}
+
+.fact_card_text{
+    padding: 0;
+    font-size: 16px;
+    line-height: 1;
+    color: #666;
+
+}

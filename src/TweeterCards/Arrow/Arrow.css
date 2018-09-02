@@ -1,0 +1,39 @@
+.prev {
+	box-sizing: border-box;
+    display: block;
+    border-radius: 50px;
+   	padding-bottom: 0px;
+   	padding-top: 2px;
+    width: 40px;
+    height: 42px;
+    background-color:grey ;
+    border-color: grey;
+    color: black;
+    outline: none !important; 
+    text-shadow: 0 1px 1px rgba(255,255,255,0.1);
+    cursor: pointer;
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 180px;
+    float: right;
+}
+
+.next{
+	box-sizing: border-box;
+    display: block;
+    border-radius: 50px;
+   	padding-bottom: 0px;
+   	padding-top: 2px;
+    width: 40px;
+    height: 42px;
+    background-color:grey ;
+    border-color: grey;
+    color: black;
+    outline: none !important; 
+    text-shadow: 0 1px 1px rgba(255,255,255,0.1);
+    cursor: pointer;
+    
+    margin-top: 180px; 
+    float : left;
+
+}
